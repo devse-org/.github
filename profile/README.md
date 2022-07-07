@@ -4,13 +4,15 @@
 <br/>
 
 <p align="center">
-  <img width="256" src="./profile/banner.png">
+  <img width="75%" src="./profile/banner.png">
 </p>
 
 <br/>
 <br/>
 
-# DEVSE
+<h1 align="center">
+DEVSE
+</h1>
 
 Cette organisation GitHub a été créé pour partager notre travail sur le développement de systèmes d'exploitation en Français. N'hésitez pas à contribuer à la [documentation](https://devse.wiki/), à [osdk](https://github.com/devse-org/osdk) ou encore [handover](https://github.com/devse-org/handover).
 
