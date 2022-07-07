@@ -1,14 +1,9 @@
 
 <br/>
-<br/>
-<br/>
-
 <p align="center">
   <img width="75%" src="./profile/banner.png">
 </p>
 
-<br/>
-<br/>
 
 <h1 align="center">
 DEVSE
