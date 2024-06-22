@@ -1,7 +1,7 @@
 
 <br/>
 <p align="center">
-  <img width="75%" src="./profile/banner.png">
+  <img width="75%" src="./banner.png">
 </p>
 
 
